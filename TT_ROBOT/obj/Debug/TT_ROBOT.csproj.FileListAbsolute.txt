@@ -1,0 +1,40 @@
+D:\GUI\TT_ROBOT\TT_ROBOT\bin\Debug\TT_ROBOT.exe.config
+D:\GUI\TT_ROBOT\TT_ROBOT\bin\Debug\TT_ROBOT.exe
+D:\GUI\TT_ROBOT\TT_ROBOT\bin\Debug\TT_ROBOT.pdb
+D:\GUI\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.AssemblyReference.cache
+D:\GUI\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.Form1.resources
+D:\GUI\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.Properties.Resources.resources
+D:\GUI\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.GenerateResource.cache
+D:\GUI\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.CoreCompileInputs.cache
+D:\GUI\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.exe
+D:\GUI\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.pdb
+C:\ổ d tạm\học tập\học kỳ 7\tt robot\huy\TT_ROBOT\TT_ROBOT\bin\Debug\TT_ROBOT.exe.config
+C:\ổ d tạm\học tập\học kỳ 7\tt robot\huy\TT_ROBOT\TT_ROBOT\bin\Debug\TT_ROBOT.exe
+C:\ổ d tạm\học tập\học kỳ 7\tt robot\huy\TT_ROBOT\TT_ROBOT\bin\Debug\TT_ROBOT.pdb
+C:\ổ d tạm\học tập\học kỳ 7\tt robot\huy\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.AssemblyReference.cache
+C:\ổ d tạm\học tập\học kỳ 7\tt robot\huy\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.Form1.resources
+C:\ổ d tạm\học tập\học kỳ 7\tt robot\huy\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.Properties.Resources.resources
+C:\ổ d tạm\học tập\học kỳ 7\tt robot\huy\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.GenerateResource.cache
+C:\ổ d tạm\học tập\học kỳ 7\tt robot\huy\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.CoreCompileInputs.cache
+C:\ổ d tạm\học tập\học kỳ 7\tt robot\huy\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.exe
+C:\ổ d tạm\học tập\học kỳ 7\tt robot\huy\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.pdb
+D:\GUI\TT_ROBOT_new\TT_ROBOT\TT_ROBOT\bin\Debug\TT_ROBOT.exe.config
+D:\GUI\TT_ROBOT_new\TT_ROBOT\TT_ROBOT\bin\Debug\TT_ROBOT.exe
+D:\GUI\TT_ROBOT_new\TT_ROBOT\TT_ROBOT\bin\Debug\TT_ROBOT.pdb
+D:\GUI\TT_ROBOT_new\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.AssemblyReference.cache
+D:\GUI\TT_ROBOT_new\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.Form1.resources
+D:\GUI\TT_ROBOT_new\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.Properties.Resources.resources
+D:\GUI\TT_ROBOT_new\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.GenerateResource.cache
+D:\GUI\TT_ROBOT_new\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.CoreCompileInputs.cache
+D:\GUI\TT_ROBOT_new\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.exe
+D:\GUI\TT_ROBOT_new\TT_ROBOT\TT_ROBOT\obj\Debug\TT_ROBOT.pdb
+D:\GUI\TT_ROBOT (1)\TT_ROBOT\bin\Debug\TT_ROBOT.exe.config
+D:\GUI\TT_ROBOT (1)\TT_ROBOT\bin\Debug\TT_ROBOT.exe
+D:\GUI\TT_ROBOT (1)\TT_ROBOT\bin\Debug\TT_ROBOT.pdb
+D:\GUI\TT_ROBOT (1)\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.AssemblyReference.cache
+D:\GUI\TT_ROBOT (1)\TT_ROBOT\obj\Debug\TT_ROBOT.Form1.resources
+D:\GUI\TT_ROBOT (1)\TT_ROBOT\obj\Debug\TT_ROBOT.Properties.Resources.resources
+D:\GUI\TT_ROBOT (1)\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.GenerateResource.cache
+D:\GUI\TT_ROBOT (1)\TT_ROBOT\obj\Debug\TT_ROBOT.csproj.CoreCompileInputs.cache
+D:\GUI\TT_ROBOT (1)\TT_ROBOT\obj\Debug\TT_ROBOT.exe
+D:\GUI\TT_ROBOT (1)\TT_ROBOT\obj\Debug\TT_ROBOT.pdb
