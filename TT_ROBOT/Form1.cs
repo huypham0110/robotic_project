@@ -27,10 +27,7 @@ namespace TT_ROBOT
         private void Form1_Load(object sender, EventArgs e)
         {
             cbPort.DataSource = SerialPort.GetPortNames();
-            cbBaudrate.Text = "115200";
-
-
-            
+            cbBaudrate.Text = "115200";  
         }
 
         private void butConnect_Click(object sender, EventArgs e)
@@ -91,12 +88,10 @@ namespace TT_ROBOT
         private void seCOM_DataReceived(object sender, SerialDataReceivedEventArgs e)
         {
             String dataReceive = seCOM.ReadExisting();
-
         }
 
         private void butResetInverse_Click(object sender, EventArgs e)
         {
-
             txtiPx_1.Text = "345";
             txtiPy_1.Text = "0";
             txtiPz_1.Text = "0";
@@ -120,9 +115,7 @@ namespace TT_ROBOT
             txtiPx_6.Text = "345";
             txtiPy_6.Text = "0";
             txtiPz_6.Text = "0";
-
         }
-
 
         private void butSetInverse_Click(object sender, EventArgs e)
         {
@@ -179,7 +172,7 @@ namespace TT_ROBOT
             double x_2, y_2, z_2, theta1_2, theta2_2, c2_2, s2_2, c1_2, s1_2, theta1_d_2, theta2_d_2, theta2_dd_2;
             x_2 = (double)Convert.ToInt32(txtiPx_2.Text);
             y_2 = (double)Convert.ToInt32(txtiPy_2.Text);
-                z_2 = (double)Convert.ToInt32(txtiPz_2.Text);
+            z_2 = (double)Convert.ToInt32(txtiPz_2.Text);
             // tìm theta 2
             c2_2 = ((x_2 - L1) * (x_2 - L1) + y_2 * y_2 - L3 * L3 - L2 * L2) / (2 * L2 * L3);
             s2_2 = Math.Sqrt(1 - c2_2 * c2_2);
