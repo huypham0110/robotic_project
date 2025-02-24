@@ -6,3 +6,5 @@ Tổng quan
    - Code cho Arduino: [xem thêm](robot_done/robot_done.ino)
   
 ![image](https://github.com/user-attachments/assets/75e96c57-fe40-48a1-9164-ccf3f15f9de9)
+![image](https://github.com/user-attachments/assets/9a81b1f8-637e-484c-936e-ac2e7b8ec6c2)
+
